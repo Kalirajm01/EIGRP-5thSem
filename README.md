@@ -6,3 +6,6 @@
 
 => EIGRP is an enhanced version of IGRP. The same distance vector technology found in IGRP is also used in EIGRP, and the underlying distance information remains unchanged. The convergence properties and the operating efficiency of this protocol have improved significantly. This allows for an improved architecture while retaining existing investment in IGRP. The convergence technology is based on research conducted at SRI International. The Diffusing Update Algorithm (DUAL) is the algorithm used to obtain loop-freedom at every instant throughout a route computation. This allows all routers involved in a topology change to synchronize at the same time. Routers that are not affected by topology changes are not involved in the recomputation. The convergence time with DUAL rivals that of any other existing routing protocol. EIGRP has been extended to be network-layer-protocol independent, thereby allowing DUAL to support other protocol suites.
 
+**NETWORK TOPOLOGY:**
+
+<img width="668" alt="image" src="https://github.com/Kalirajm01/EIGRP-5thSem/assets/92640470/b30d36c7-a815-4c6a-9d5b-77918834ca01">
