@@ -16,6 +16,14 @@
 
 
 
+
 **To show the EIGRP topology, enter show ip eigrp topology**
 
 <img width="305" alt="image" src="https://github.com/Kalirajm01/EIGRP-5thSem/assets/92640470/3ecb4ffd-15d5-4f3b-9861-e3c9a98dda0c">
+
+
+
+
+**To show the EIGRP neighbors, enter eigrp neighbors**
+
+<img width="392" alt="image" src="https://github.com/Kalirajm01/EIGRP-5thSem/assets/92640470/bb2dc3c9-1fe0-4429-9179-0a694c9e6b8f">
